@@ -1,7 +1,7 @@
 # SPSGP-66856-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
 
-## Name: Pranav Reddy Kasana
+## Name: Parre Hosanna
 
 ⏩ [Main Project 1](https://github.com/smartinternz02/SPSGP-66856-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Nearby-Places-Finder-App)
 
